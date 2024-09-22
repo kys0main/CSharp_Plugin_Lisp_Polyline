@@ -1,0 +1,8 @@
+D:\Works\Visual studio\C#\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Works\Visual studio\C#\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Works\Visual studio\C#\ClassLibrary1\ClassLibrary1\obj\Debug\Laba2OSAP.csproj.AssemblyReference.cache
+D:\Works\Visual studio\C#\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.MainForm.resources
+D:\Works\Visual studio\C#\ClassLibrary1\ClassLibrary1\obj\Debug\Laba2OSAP.csproj.GenerateResource.cache
+D:\Works\Visual studio\C#\ClassLibrary1\ClassLibrary1\obj\Debug\Laba2OSAP.csproj.CoreCompileInputs.cache
+D:\Works\Visual studio\C#\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Works\Visual studio\C#\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
